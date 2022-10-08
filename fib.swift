@@ -9,7 +9,7 @@ if var num, num > 2 {
         fib.append(sum)
         num -= 1
     }
-    print(fib)
+    print("The fibonacci for range is \(fib)")
 } else {
     print("There's a else case here!")
 }
