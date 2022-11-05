@@ -1,5 +1,3 @@
-// TODO: IMPLEMENT A ARRAY CLASS YOURSELF
-
 // Implementation of Array(repeating:count)
 
 func ArrayFrom(repeating: Int, count: Int) -> [Int] {
